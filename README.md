@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swati</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Azure | GCP</h3>
+<h3 align="center">Sr. Cloud & DevOps Engineer | AWS | Azure </h3>
 
 ---
 
