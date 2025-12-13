@@ -11,7 +11,7 @@ I’m **Swati**, a passionate **Cloud & DevOps Engineer** with hands-on experien
 - 🔹 **2x AWS Certified**
 - 🔹 Strong experience in **Cloud, DevOps & Automation**
 - 🔹 Love working with **CI/CD pipelines, Containers & Kubernetes**
-- 🔹 Experienced in **Multi-Cloud (AWS, Azure, GCP)** environments
+- 🔹 Experienced in **Multi-Cloud (AWS, Azure)** environments
 - 🔹 Trainer & Mentor mindset with real-world project exposure  
 
 ---
@@ -45,7 +45,7 @@ I’m **Swati**, a passionate **Cloud & DevOps Engineer** with hands-on experien
 - CloudWatch  
 
 #### 🖥️ OS & Scripting  
-- Linux (Ubuntu, RHEL, CentOS)
+- Linux (Ubuntu, Amazon Linux)
 - Shell Scripting  
 - Python  
 
