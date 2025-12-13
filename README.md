@@ -21,7 +21,6 @@ I’m **Swati**, a passionate **Cloud & DevOps Engineer** with hands-on experien
 #### ☁️ Cloud Platforms  
 - AWS (EC2, S3, VPC, IAM, RDS, CloudWatch, Route53, ELB)
 - Microsoft Azure
-- Google Cloud Platform (GCP)
 
 #### ⚙️ DevOps & CI/CD  
 - Jenkins  
