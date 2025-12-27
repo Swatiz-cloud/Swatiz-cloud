@@ -3,9 +3,9 @@
 
 ---
 
-### 👩‍💻 About Me  
+###  About Me  
 
-Hey there! 👋  
+Hey there!  
 I’m **Swati**, a passionate **Cloud & DevOps Engineer** with hands-on experience in designing, deploying, and automating cloud-native solutions.
 
 - 🔹 **2x AWS Certified**
@@ -16,50 +16,50 @@ I’m **Swati**, a passionate **Cloud & DevOps Engineer** with hands-on experien
 
 ---
 
-### 🚀 Skills & Technologies  
+###  Skills & Technologies  
 
-#### ☁️ Cloud Platforms  
+####  Cloud Platforms  
 - AWS (EC2, S3, VPC, IAM, RDS, CloudWatch, Route53, ELB)
 - Microsoft Azure
 
-#### ⚙️ DevOps & CI/CD  
+####  DevOps & CI/CD  
 - Jenkins  
 - Git & GitHub  
 - GitHub Actions  
 - CI/CD Pipeline Design  
 
-#### 🐳 Containers & Orchestration  
+####  Containers & Orchestration  
 - Docker  
 - Kubernetes (K8S)  
 - Helm  
 
-#### 🏗️ Infrastructure as Code  
+####  Infrastructure as Code  
 - Terraform  
 - Ansible  
 - CloudFormation  
 
-#### 📊 Monitoring & Logging  
+####  Monitoring & Logging  
 - Prometheus  
 - Grafana  
 - CloudWatch  
 
-#### 🖥️ OS & Scripting  
+####  OS & Scripting  
 - Linux (Ubuntu, Amazon Linux)
 - Shell Scripting  
 - Python  
 
-#### 🗄️ Databases  
+####  Databases  
 - Amazon RDS  
 - MySQL  
 - PostgreSQL  
 
-#### 🔄 Data & ETL  
+####  Data & ETL  
 - ETL Basics  
 - Data Processing Pipelines  
 
 ---
 
-### 📌 Featured Projects  
+###  Featured Projects  
 
 🔹 **3-Tier Architecture on AWS (Terraform)**  
 - Modular Terraform code  
@@ -76,18 +76,18 @@ I’m **Swati**, a passionate **Cloud & DevOps Engineer** with hands-on experien
 - Docker + Jenkins + Cloud  
 - Real-world DevOps workflows  
 
-👉 *More projects coming soon…*
+ *More projects coming soon…*
 
 ---
 
-### 🏆 Certifications  
+###  Certifications  
 
-- 🏅 AWS Certified Solutions Architect – Associate  
-- 🏅 AWS Certified Cloud Practitioner  
+-  AWS Certified Solutions Architect – Associate  
+-  AWS Certified Cloud Practitioner  
 
 ---
 
-### 🤝 Connect with Me  
+###  Connect with Me  
 
 <p align="left">
 <a href="https://www.linkedin.com/" target="_blank">
@@ -100,7 +100,7 @@ I’m **Swati**, a passionate **Cloud & DevOps Engineer** with hands-on experien
 
 ---
 
-### 🛠️ Languages & Tools  
+###  Languages & Tools  
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,python,bash,git,github,docker,kubernetes,terraform,ansible,jenkins,prometheus,grafana,mysql,postgres" />
@@ -108,4 +108,4 @@ I’m **Swati**, a passionate **Cloud & DevOps Engineer** with hands-on experien
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*  
+ *Feel free to explore my repositories and connect with me!*  
